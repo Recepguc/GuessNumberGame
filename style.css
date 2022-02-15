@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    /* background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover; */
+    color: black;
+    background-color: bisque;
+}
+.content{
+    padding:2rem;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    padding-bottom: 1rem;
+}
+.inbuton{
+    padding-bottom: 1rem;
+}
+.input{
+    height: 2rem;
+    width: 10rem;
+    border-radius: 0.5rem;
+}
+.button{
+    width: 4rem;
+    height: 2rem;
+    background-color:chartreuse;
+    border-radius: 0.5rem;
+}
+h2{
+    padding: 0 15rem;
+    font-size: 3rem;
+}
+p{
+    font-size: xx-large;
+}
+.button:hover{
+    background-color: aliceblue;
+}
+#img2,
+#img3{
+    display: none;
+    text-align: center;
+}
+#reset{
+    width: 4rem;
+    height: 2.5rem;
+    border-radius: 1rem;
+    background-color: red;
+    margin-top: 2rem;
+    
+}
+#label{
+    font-size: 2rem;
+}
+
+#header2,
+#header3{
+    display: none;
+}
+#header2{
+    color: green;
+}
+#header3{
+    color: red;
+}
