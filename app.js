@@ -28,6 +28,7 @@ button.addEventListener("click" , () => {
         attemp.style.display="none"
         head.style.display="none"
         input.style.display="none"
+        button.style.display="none"
 
     }
     else if(sayı==0){
@@ -38,6 +39,7 @@ button.addEventListener("click" , () => {
         attemp.style.display="none"
         head.style.display="none"
         input.style.display="none"
+        button.style.display="none"
 
     }
 
